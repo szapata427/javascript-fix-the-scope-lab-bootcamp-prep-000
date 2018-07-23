@@ -10,7 +10,11 @@ function yourAnimal() {
   // How can we make sure that this function
   // and the above function both pass?
   // P.S.: You can't just hard-code 'cat' below
+<<<<<<< HEAD
   var animal = "cat"
+=======
+  animal = "cat"
+>>>>>>> 08f6374802c603c64142b632d1bb4b4ac6f0b28e
   return animal
 }
 yourAnimal()
